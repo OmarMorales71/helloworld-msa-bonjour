@@ -19,7 +19,7 @@
   "homepage": "https://github.com/redhat-helloworld-msa/bonjour#readme",
   "dependencies": {
     "es6-shim": "^0.35.1",
-    "express": "^4.13.4",
+    "express": "^4.17.3",
     "express-session": "^1.14.2",
     "jaeger-client": "^3.5.2",
     "keycloak-auth-utils": "3.1.0",
